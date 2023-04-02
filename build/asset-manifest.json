@@ -1,0 +1,14 @@
+{
+  "main.css": "/currencio/static/css/main.7cbf588a.chunk.css",
+  "main.js": "/currencio/static/js/main.1170ce50.chunk.js",
+  "main.js.map": "/currencio/static/js/main.1170ce50.chunk.js.map",
+  "runtime~main.js": "/currencio/static/js/runtime~main.044c3b13.js",
+  "runtime~main.js.map": "/currencio/static/js/runtime~main.044c3b13.js.map",
+  "static/js/2.15442a32.chunk.js": "/currencio/static/js/2.15442a32.chunk.js",
+  "static/js/2.15442a32.chunk.js.map": "/currencio/static/js/2.15442a32.chunk.js.map",
+  "index.html": "/currencio/index.html",
+  "precache-manifest.ac16423a458a31b35d063f0c6aaca584.js": "/currencio/precache-manifest.ac16423a458a31b35d063f0c6aaca584.js",
+  "service-worker.js": "/currencio/service-worker.js",
+  "static/css/main.7cbf588a.chunk.css.map": "/currencio/static/css/main.7cbf588a.chunk.css.map",
+  "static/media/custom.css": "/currencio/static/media/background-min.3c31d2a6.png"
+}
