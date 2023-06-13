@@ -8,7 +8,7 @@
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^14.4.3",
     "bootstrap": "^5.2.3",
-    "currency-flags": "^3.3.0",
+    "currency-flags": "^4.0.7",
     "react": "^18.2.0",
     "react-bootstrap": "^2.1.0",
     "react-dom": "^18.2.0",
